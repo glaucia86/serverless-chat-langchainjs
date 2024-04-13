@@ -248,6 +248,8 @@ This tutorial explains how to configure the development environment to create fu
 
 Additionally, we configured the project to run the functions we created. And finally we created the `chat-post`, `documents-post`, and `documents-get` functions for the project.
 
-We will now start to develop the logic for each function so that we can integrate with ChatGPT (FrontEnd side). In the next section, we will start developing the `chat-post` function for integration with ChatGPT.
+Before we proceed with developing the functions, it's important to grasp a fundamental concept for those building ChatGPT applications: Retrieval-Augmented Generation (RAG).
 
-**[⬅️ Back: Introduction](01-introduction.md)** | **[Next: Developing the `chat-post` function ➡️ ](./03-developing-chat-post-function.md)**
+We will talk about RAG in the next section.
+
+**[⬅️ Back: Introduction](01-introduction.md)** | **[Next: Developing the `chat-post` function ➡️ ](./03-understanding-rag.md)**
