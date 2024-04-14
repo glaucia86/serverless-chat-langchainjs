@@ -253,3 +253,4 @@ Before we proceed with developing the functions, it's important to grasp a funda
 We will talk about RAG in the next section.
 
 **[⬅️ Back: Introduction](01-introduction.md)** | **[Next: Developing the `chat-post` function ➡️ ](./03-understanding-rag.md)**
+
